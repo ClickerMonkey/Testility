@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc" name="Testility-JavaDoc">
+    <target name="javadoc">
+        <javadoc access="protected" author="true" 
+        	classpath="libs/org.hamcrest.core_1.1.0.v20090501071000.jar;libs/org.junit_4.8.1.v4_8_1_v20100427-1100.jar"
+        	destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" 
+        	nonavbar="false" notree="false" source="1.5" sourcepath="Source" 
+        	splitindex="true" use="true" version="true"/>
+    </target>
+</project>
