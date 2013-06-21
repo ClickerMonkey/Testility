@@ -33,8 +33,8 @@ public class TestOrdered extends BaseTest
 ```
 
 **Builds**
-
-https://github.com/ClickerMonkey/testility/tree/master/build
+- [testility-1.0.0.jar](https://github.com/ClickerMonkey/testility/blob/master/build/testility-1.0.0.jar?raw=true)
+- [testility-src-1.0.0.jar](https://github.com/ClickerMonkey/testility/blob/master/build/testility-src-1.0.0.jar?raw=true) *- includes source code*
 
 **Projects using testility:**
 - [taskaroo](https://github.com/ClickerMonkey/taskaroo)
