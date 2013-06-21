@@ -3,6 +3,9 @@ testility
 
 A small Java library with a few classes I've used in other projects in JUnit tests.
 
+**Features**
+- You can order test methods (sometimes test methods can execute in random order)
+
 **Example**
 
 ```java
