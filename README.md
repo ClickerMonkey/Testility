@@ -35,3 +35,16 @@ public class TestOrdered extends BaseTest
 **Builds**
 
 https://github.com/ClickerMonkey/testility/tree/master/build
+
+**Projects using testility:**
+- [taskaroo](https://github.com/ClickerMonkey/taskaroo)
+- [statastic](https://github.com/ClickerMonkey/statastic)
+- [daperz](https://github.com/ClickerMonkey/daperz)
+- [surfice](https://github.com/ClickerMonkey/surfice)
+- [zource](https://github.com/ClickerMonkey/zource)
+- [falcon](https://github.com/ClickerMonkey/falcon)
+- [buffero](https://github.com/ClickerMonkey/buffero)
+- [curity](https://github.com/ClickerMonkey/curity)
+
+**Dependencies**
+- JUnit
