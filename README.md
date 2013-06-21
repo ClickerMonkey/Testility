@@ -35,7 +35,3 @@ public class TestOrdered extends BaseTest
 **Builds**
 
 https://github.com/ClickerMonkey/testility/tree/master/build
-
-**Testing Examples**
-
-https://github.com/ClickerMonkey/testility/tree/master/Testing/org/magnos/test
