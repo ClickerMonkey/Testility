@@ -6,6 +6,9 @@ A small Java library with a few classes I've used in other projects in JUnit tes
 **Features**
 - You can order test methods (sometimes test methods can execute in random order)
 
+**Documentation**
+- [JavaDoc](http://clickermonkey.github.com/testility/)
+
 **Example**
 
 ```java
