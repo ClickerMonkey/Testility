@@ -1,6 +1,8 @@
 testility
 =========
 
+![Stable](http://i4.photobucket.com/albums/y123/Freaklotr4/stage_stable.png)
+
 A small Java library with a few classes I've used in other projects in JUnit tests.
 
 **Features**
